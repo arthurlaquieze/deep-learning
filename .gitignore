@@ -11,6 +11,7 @@ __pycache__/
 
 # data
 /data
+GAN/data
 
 # Distribution / packaging
 .Python
