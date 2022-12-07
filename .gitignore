@@ -14,6 +14,7 @@ __pycache__/
 GAN/data
 GAN/results
 GAN/models
+GAN/MNIST
 
 # Distribution / packaging
 .Python
@@ -140,3 +141,4 @@ dmypy.json
 # Reveal
 src/site
 slides
+GAN/ckpt.pth
